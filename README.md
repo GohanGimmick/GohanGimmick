@@ -3,8 +3,7 @@
 - 🌱 I’m currently pursuaing BCA
 - 💞️ I’m looking to collaborate in E-commerce Feild 
 - 📫 How to reach me arth02rawat@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 GohanGimmick/GohanGimmick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
